@@ -24,6 +24,7 @@ proyecto DSM
 								<br>
 								<br>
 								<br>
+								<h2>integrantes: </h2>
 
 								
 							
