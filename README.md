@@ -29,7 +29,7 @@ proyecto DSM
 								<ul>
 									<li>Jonathan Pineda (jramos0) </li>
 								<li>Giovanny Josue (josue231011) </li>
-								<li>Haydee Martinez</li>
+								<li>Haydee Martinez (hmmvasquez)</li>
 									<li>Josue Rodriguez (Josue-Rodriguez-Madrid)</li>
 							</ul>
 									<br>
