@@ -21,6 +21,7 @@ proyecto DSM
 								<li>Facilidad de entrega de productos solicitados con modalidad delivery</li>
 								<li>facilitamos el espacio a diferentes empresas de comida rapida para que puedan los clientes comprar y pedir a domicilio</li>
 								<li>El servicio de nuestra aplicacion es basado en contratos de 3 meses por la cantidad de: $2,500</li>
+								</ul>
 								<br>
 								<br>
 								<br>
@@ -30,7 +31,7 @@ proyecto DSM
 								<li>Giovanny Josue</li>
 								<li>Haydee Martinez</li>
 									<li>Josue Rodriguez</li>
-									
+							</ul>
 									<br>
 									<br>
 									<h2>Grupo teorico:03T </h2>
