@@ -25,78 +25,7 @@ proyecto DSM
 								<br>
 								<br>
 
-								<p>Costos y suscripcion de TO GO UDB</p>
-							<ul>
-								<li>Si eres nuevo y quieres suscribirte a nuestra aplicacion, te damos 3 meses grstis con contrato para 1 año de sevicio</li>
-								<li>Variedad de productos , segun necesidad y gustos del cliente</li>
-								<li>Nuestros precios son por: 1 año, 2 años y 3 años, consta de precios por un año de $50,000 al año, $90,000 los 2 años y $170,000 para 3 años </li>
 								
-								
-							</ul>
-							<h2>Mock-ups</h2>
-							<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FP7TL3bXRtaCr2XjfqmYaRR%2FToGoUDB%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
-						</header>
-					</div>
-				</section>
-
-			<!-- Posts -->
-				<section id="desarrolladores" class="wrapper style1">
-					<div class="container">
-						<div class="row">
-							<section class="col-6 col-12-narrower">
-								<div class="box post">
-									<a href="#" class="image left"><img src="images/photo1.jpg" alt="foto1" width="300px" height="300px" /></a>
-									<div class="inner">
-										<h3>Jonathan Pineda</h3>
-										<p>Un principiante, pero entusiasta desarrollador de software multiplataforma, que disfruta de la programación backend y Frontend,
-											 haciendo uso de las habilidades técnicas que ha aprendido mientras estudia ingeniería en ciencias de la computación.</p>
-											
-									</div>
-								</div>
-							</section>
-							<section class="col-6 col-12-narrower">
-								<div class="box post">
-									<a href="#" class="image left"><img src="images/photo2.png" alt="foto2"  width="300px" height="300px" /></a>
-									<div class="inner">
-										<h3>Giovanny Velasquez</h3>
-										<p>Programador y analísta developer estudiante de ingeniería en ciencias de la computación, con un amplio conocimiento en la parte de el Backend
-											 en los desarrollos de los software con conocimientos técnicos y complejos de los lenguajes de la programación </p>
-									</div>
-								</div>
-							</section>
-						</div>
-						<div class="row">
-							<section class="col-6 col-12-narrower">
-								<div class="box post">
-									<a href="#" class="image left"><img src="images/photo3.jpg" alt="foto3" width="300px" height="300px"  /></a>
-									<div class="inner">
-										<h3>Haydeé Melgar</h3>
-										<p>Estudiante de quinto año de Ingeniería en Ciencias de la Computación y actualmente se desempeña como Operador de Sistemas I en un Hospital,
-										 poniendo en practica sus conocimientos en mantenimiento preventivo y correctivo de computadoras, redes y paquetes de procesadores de texto, 
-										 y sistemas operativos libres y privativos. Además cuento con conocimientos de desarrollo Front-end.</p>
-									</div>
-								</div>
-							</section>
-							<section class="col-6 col-12-narrower">
-								<div class="box post">
-									<a href="#" class="image left"><img src="images/photo4.jpg" alt="foto4" width="300px" height="300px"  /></a>
-									<div class="inner">
-										<h3>Josué Rodríguez</h3>
-										<p>Estudiante de ingeniería en ciencias de la computación que se desempeña como un desarrollador web full stack  aún principiante aplicando los
-											conocimientos y sus buenas prácticas que ha adquirido en la programación de software.</p>
-									</div>
-								</div>
-							</section>
-						</div>
-					</div>
-				</section>
-
-			
-
-			<!-- Footer -->
-				<div id="footer">
-					<div class="container">
-						<div class="row">
 							<section class="col-3 col-6-narrower col-12-mobilep">
 								<h3>Links to Stuff</h3>
 								<ul class="links">
