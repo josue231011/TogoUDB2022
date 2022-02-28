@@ -27,10 +27,10 @@ proyecto DSM
 								<br>
 								<h2>Autores: </h2>
 								<ul>
-									<li>Jonathan Pineda (Josue-Rodriguez-Madrid)</li>
-								<li>Giovanny Josue</li>
+									<li>Jonathan Pineda </li>
+								<li>Giovanny Josue (josue231011) </li>
 								<li>Haydee Martinez</li>
-									<li>Josue Rodriguez</li>
+									<li>Josue Rodriguez (Josue-Rodriguez-Madrid)</li>
 							</ul>
 									<br>
 									<br>
