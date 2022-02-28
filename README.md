@@ -24,8 +24,16 @@ proyecto DSM
 								<br>
 								<br>
 								<br>
-								<h2>integrantes: </h2>
-
+								<h2>Autores: </h2>
+								<ul>
+								<li>Jonathan Pineda</li>
+								<li>Giovanny Josue</li>
+								<li>Haydee Martinez</li>
+									<li>Josue Rodriguez</li>
+									
+									<br>
+									<br>
+									<h2>Grupo teorico:03T </h2>
 								
 							
 	
