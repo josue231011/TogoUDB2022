@@ -26,4 +26,9 @@
  
  - Android Studio
  - Firebase
+ - Figma
+ - Github
  - 
+
+
+<h5>ENLACES:</h5>
