@@ -1,6 +1,10 @@
 # TogoUDB2022 (Con Modificación de Nombre)
 # Nuevo Nombre del Proyecto: RapidFood SV
-#proyecto DSM 
+# proyecto DSM 
+
+# Descripcion del proyecto:
+
+<p> </p>
 
 <h1>Integrantes:   ||  usuarios(Github): </h1>      
   <li> Jonathan Pineda || (jramos0)</li>
