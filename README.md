@@ -13,5 +13,13 @@
   
   <h4>Funcionalidad de la APP</h4>
   
+  <li>GESTIÓN DE USUARIOS Y AUTENTICACIÓN</li>
+  <li>IDENTIFICACIÓN DE APLICACIÓN</li>
+  <li>AVANCE FUNCIONAL(50%)</li>
+  
   
   <h4>Tecnologia a Utilizar</h4>
+ 
+ - Android Studio
+ - Firebase
+ - 
