@@ -45,5 +45,5 @@ El servicio de nuestra aplicacion es basado en contratos de 3 meses por la canti
 
 <h5>ENLACES:</h5>
 <li> Figma: https://www.figma.com/file/P7TL3bXRtaCr2XjfqmYaRR/ToGoUDB?node-id=0%3A1 </li>
-<li> Diagrama: https://app.moqups.com/AObaTMUVVgoUQ5rYVugOqE8io8evBmu4/view/page/acf519a16</li>
+<li> Diagrama de Casos de Usos: https://app.moqups.com/AObaTMUVVgoUQ5rYVugOqE8io8evBmu4/view/page/acf519a16</li>
 <li> Github: https://github.com/josue231011/TogoUDB2022 </li>
