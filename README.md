@@ -1,6 +1,6 @@
 # TogoUDB2022 (Con Modificación de Nombre)
 # Nuevo Nombre del Proyecto: RapidFood SV
-# proyecto DSM 
+# Proyecto DSM | Grupo Teorico: 03T 
 
 # Descripcion del proyecto:
 
@@ -39,7 +39,11 @@ El servicio de nuestra aplicacion es basado en contratos de 3 meses por la canti
  - Firebase
  - Figma
  - Github
- - 
+ - APIS
+ - JAVA
 
 
 <h5>ENLACES:</h5>
+-Figma: https://www.figma.com/file/P7TL3bXRtaCr2XjfqmYaRR/ToGoUDB?node-id=0%3A1
+- Diagrama: https://app.moqups.com/AObaTMUVVgoUQ5rYVugOqE8io8evBmu4/view/page/acf519a16
+- Github: https://github.com/josue231011/TogoUDB2022
