@@ -4,7 +4,7 @@
 
 # Descripcion del proyecto:
 
-<p>RapidFood SV nacio a principios del año 2022, sus creadores fue un grupo de 4 ingenieros en sistemas informaticos, hemos sido una de las mejores aplicacione a nivel nacional en cuanto a facilidad y manejo de nuestra aplicacion.
+<p>RapiFood SV nacio a principios del año 2022, sus creadores fue un grupo de 4 ingenieros en sistemas informaticos, hemos sido una de las mejores aplicacione a nivel nacional en cuanto a facilidad y manejo de nuestra aplicacion.
 
 Los servicios proporcionados como empresa seran reflejadas a nivel aplicacion con las siguientes funcionalidades
 
