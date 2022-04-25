@@ -50,4 +50,4 @@ El servicio de nuestra aplicacion es basado en contratos de 3 meses por la canti
 <li> Diagrama Entidad Relación(ER): https://lucid.app/lucidchart/e429f1e6-3b94-40c9-9da1-dea9ecf11f9b/edit?invitationId=inv_b272e390-9c63-4189-b1d1-d81a4884a84d</li>
 <li>Manual Tecnico: https://drive.google.com/file/d/1N6c8PS3I1cZ6azTIEVvukjBIFPMGxMN_/view?usp=sharing </li>
 <li>Manual Usuario: https://drive.google.com/file/d/13luu79DvK8P3dhK8YFLFvTm4L8YDJl1w/view?usp=sharing </li>
-<li>Almacenamiento Onedrive(Copia Seguridad Proyecto): </li>
+<li>Almacenamiento Onedrive(Copia Seguridad Proyecto): https://drive.google.com/file/d/1sJoiK7SZVss2xk2e0r6rEy-xUVuUpHoC/view?usp=sharing </li>
