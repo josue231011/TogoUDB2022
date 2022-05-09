@@ -1,0 +1,205 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="sv.edu.udb.guia07app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml
+10
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:19.7.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\b012b0d187e02363a1dac2d4c1345d5c\jetified-firebase-database-19.7.0\AndroidManifest.xml:25:5-79
+13-->[com.google.firebase:firebase-database:19.7.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\b012b0d187e02363a1dac2d4c1345d5c\jetified-firebase-database-19.7.0\AndroidManifest.xml:25:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-database:19.7.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\b012b0d187e02363a1dac2d4c1345d5c\jetified-firebase-database-19.7.0\AndroidManifest.xml:26:5-67
+14-->[com.google.firebase:firebase-database:19.7.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\b012b0d187e02363a1dac2d4c1345d5c\jetified-firebase-database-19.7.0\AndroidManifest.xml:26:22-64
+15
+16    <application
+16-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:5:5-35:19
+17        android:allowBackup="true"
+17-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:6:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.3.1] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\e446019207d9218ba64da57d5d4067cf\core-1.3.1\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:icon="@mipmap/ic_launcher"
+21-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:7:9-43
+22        android:label="@string/app_name"
+22-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:8:9-41
+23        android:roundIcon="@mipmap/iconoapp"
+23-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:9:9-45
+24        android:supportsRtl="true"
+24-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:10:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.Guia07App" >
+26-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:11:9-47
+27        <activity android:name="sv.edu.udb.guia07app.HistorialActivity" />
+27-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:12:9-64
+27-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:12:19-52
+28        <activity android:name="sv.edu.udb.guia07app.AdaptadorHistorial" />
+28-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:13:9-56
+28-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:13:19-53
+29        <activity android:name="sv.edu.udb.guia07app.SeleccionDireccionActivity" />
+29-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:14:9-64
+29-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:14:19-61
+30        <activity android:name="sv.edu.udb.guia07app.SplashActivity" >
+30-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:15:9-21:20
+30-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:15:19-49
+31            <intent-filter>
+31-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:16:13-20:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:17:17-69
+32-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:17:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:19:17-77
+34-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:19:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity android:name="sv.edu.udb.guia07app.MainActivity" />
+37-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:22:9-50
+37-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:22:19-47
+38        <activity android:name="sv.edu.udb.guia07app.LoginActivity" />
+38-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:23:9-51
+38-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:23:19-48
+39        <activity android:name="sv.edu.udb.guia07app.RegistrationActivity" />
+39-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:24:9-58
+39-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:24:19-55
+40        <activity android:name="sv.edu.udb.guia07app.DashboardActivity" />
+40-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:25:9-55
+40-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:25:19-52
+41        <activity android:name="sv.edu.udb.guia07app.ShopActivity" />
+41-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:26:9-50
+41-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:26:19-47
+42        <activity android:name="sv.edu.udb.guia07app.HamburguesasActivity" />
+42-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:27:9-58
+42-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:27:19-55
+43        <activity android:name="sv.edu.udb.guia07app.PizzaActivity" />
+43-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:28:9-51
+43-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:28:19-48
+44        <activity android:name="sv.edu.udb.guia07app.PostresActivity" />
+44-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:29:9-53
+44-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:29:19-50
+45        <activity android:name="sv.edu.udb.guia07app.PerfilActivity" />
+45-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:30:9-52
+45-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:30:19-49
+46        <activity android:name="sv.edu.udb.guia07app.Productos.ActividadProducto" />
+46-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:31:9-65
+46-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:31:19-62
+47        <activity android:name="sv.edu.udb.guia07app.Productos.AgregarProducto" />
+47-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:32:9-63
+47-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:32:19-60
+48        <activity android:name="sv.edu.udb.guia07app.Direccion.ActividadDireccion" />
+48-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:33:9-66
+48-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:33:19-63
+49        <activity android:name="sv.edu.udb.guia07app.Direccion.AgregarDireccion" />
+49-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:34:9-64
+49-->E:\descargas\Ciclo-01-2021\DSM\TEO\FaseFinal\ProyectoDSMFase2-main\app\src\main\AndroidManifest.xml:34:19-61
+50        <activity
+50-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\0e07893f8c97a801f142c1e00f4496f4\jetified-firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+51            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+51-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\0e07893f8c97a801f142c1e00f4496f4\jetified-firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+52            android:excludeFromRecents="true"
+52-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\0e07893f8c97a801f142c1e00f4496f4\jetified-firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+53            android:exported="true"
+53-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\0e07893f8c97a801f142c1e00f4496f4\jetified-firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+54            android:launchMode="singleTask"
+54-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\0e07893f8c97a801f142c1e00f4496f4\jetified-firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+55            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+55-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\0e07893f8c97a801f142c1e00f4496f4\jetified-firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+56            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+56-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\0e07893f8c97a801f142c1e00f4496f4\jetified-firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+57
+58        <service
+58-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\0e07893f8c97a801f142c1e00f4496f4\jetified-firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+59            android:name="com.google.firebase.components.ComponentDiscoveryService"
+59-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\0e07893f8c97a801f142c1e00f4496f4\jetified-firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
+60            android:directBootAware="true"
+60-->[com.google.firebase:firebase-common:19.5.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\77b3c590dd507666d922f3ee06055df5\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+61            android:exported="false" >
+61-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\0e07893f8c97a801f142c1e00f4496f4\jetified-firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
+62            <meta-data
+62-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\0e07893f8c97a801f142c1e00f4496f4\jetified-firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+63                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+63-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\0e07893f8c97a801f142c1e00f4496f4\jetified-firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+64                android:value="com.google.firebase.components.ComponentRegistrar" />
+64-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\0e07893f8c97a801f142c1e00f4496f4\jetified-firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+65            <meta-data
+65-->[com.google.firebase:firebase-database:19.7.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\b012b0d187e02363a1dac2d4c1345d5c\jetified-firebase-database-19.7.0\AndroidManifest.xml:32:13-34:85
+66                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+66-->[com.google.firebase:firebase-database:19.7.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\b012b0d187e02363a1dac2d4c1345d5c\jetified-firebase-database-19.7.0\AndroidManifest.xml:33:17-109
+67                android:value="com.google.firebase.components.ComponentRegistrar" />
+67-->[com.google.firebase:firebase-database:19.7.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\b012b0d187e02363a1dac2d4c1345d5c\jetified-firebase-database-19.7.0\AndroidManifest.xml:34:17-82
+68            <!--
+69                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+70                clients to use it as well, by defining this registrar in their own core/common library.
+71            -->
+72            <meta-data
+72-->[com.google.firebase:firebase-common:19.5.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\77b3c590dd507666d922f3ee06055df5\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+73                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+73-->[com.google.firebase:firebase-common:19.5.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\77b3c590dd507666d922f3ee06055df5\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+74                android:value="com.google.firebase.components.ComponentRegistrar" />
+74-->[com.google.firebase:firebase-common:19.5.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\77b3c590dd507666d922f3ee06055df5\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+75        </service>
+76
+77        <activity
+77-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\aa2ffa72ced3dc15065b286b5f24ca31\jetified-play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+78            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+78-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\aa2ffa72ced3dc15065b286b5f24ca31\jetified-play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+79            android:excludeFromRecents="true"
+79-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\aa2ffa72ced3dc15065b286b5f24ca31\jetified-play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+80            android:exported="false"
+80-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\aa2ffa72ced3dc15065b286b5f24ca31\jetified-play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+81            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+81-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\aa2ffa72ced3dc15065b286b5f24ca31\jetified-play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+82        <!--
+83            Service handling Google Sign-In user revocation. For apps that do not integrate with
+84            Google Sign-In, this service will never be started.
+85        -->
+86        <service
+86-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\aa2ffa72ced3dc15065b286b5f24ca31\jetified-play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+87            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+87-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\aa2ffa72ced3dc15065b286b5f24ca31\jetified-play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+88            android:exported="true"
+88-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\aa2ffa72ced3dc15065b286b5f24ca31\jetified-play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+89            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+89-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\aa2ffa72ced3dc15065b286b5f24ca31\jetified-play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+90            android:visibleToInstantApps="true" />
+90-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\aa2ffa72ced3dc15065b286b5f24ca31\jetified-play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+91
+92        <activity
+92-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\c1a7bae71a031b2d4ca19e1bf724c760\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+93            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+93-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\c1a7bae71a031b2d4ca19e1bf724c760\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+94            android:exported="false"
+94-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\c1a7bae71a031b2d4ca19e1bf724c760\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+95            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+95-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\c1a7bae71a031b2d4ca19e1bf724c760\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+96
+97        <provider
+97-->[com.google.firebase:firebase-common:19.5.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\77b3c590dd507666d922f3ee06055df5\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+98            android:name="com.google.firebase.provider.FirebaseInitProvider"
+98-->[com.google.firebase:firebase-common:19.5.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\77b3c590dd507666d922f3ee06055df5\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+99            android:authorities="sv.edu.udb.guia07app.firebaseinitprovider"
+99-->[com.google.firebase:firebase-common:19.5.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\77b3c590dd507666d922f3ee06055df5\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+100            android:directBootAware="true"
+100-->[com.google.firebase:firebase-common:19.5.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\77b3c590dd507666d922f3ee06055df5\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+101            android:exported="false"
+101-->[com.google.firebase:firebase-common:19.5.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\77b3c590dd507666d922f3ee06055df5\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+102            android:initOrder="100" />
+102-->[com.google.firebase:firebase-common:19.5.0] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\77b3c590dd507666d922f3ee06055df5\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+103
+104        <meta-data
+104-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\2734fc951eb76fe8458b7fbb3ae9a578\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+105            android:name="com.google.android.gms.version"
+105-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\2734fc951eb76fe8458b7fbb3ae9a578\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+106            android:value="@integer/google_play_services_version" />
+106-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\oscar\.gradle\caches\transforms-2\files-2.1\2734fc951eb76fe8458b7fbb3ae9a578\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+107    </application>
+108
+109</manifest>
