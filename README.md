@@ -1,5 +1,5 @@
 # TogoUDB2022 (Con Modificación de Nombre)
-# Nuevo Nombre del Proyecto: RapiFood SV
+# Nombre Final del Proyecto: RapiFood SV
 # Proyecto DSM | Grupo Teorico: 03T 
 
 # Descripcion del proyecto:
@@ -21,6 +21,7 @@ El servicio de nuestra aplicacion es basado en contratos de 3 meses por la canti
   <li> Jonathan Pineda || (jramos0)</li>
   <li>Giovanny Josue || (josue231011)</li>
   <li>Josue Rodriguez || (Josue-Rodriguez-Madrid)</li>
+   <li>Haydee Melgar || (hmmvasquez)</li>
  
   
   <h3>FASE #2 DEL PROYECTO </h3>
