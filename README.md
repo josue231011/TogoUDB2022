@@ -29,7 +29,9 @@ El servicio de nuestra aplicacion es basado en contratos de 3 meses por la canti
   
   <li>GESTIÓN DE USUARIOS Y AUTENTICACIÓN</li>
   <li>IDENTIFICACIÓN DE APLICACIÓN</li>
-  <li>AVANCE FUNCIONAL(1000%)</li>
+  <li>AVANCE FUNCIONAL(100%)</li>
+  <li>EL MULTILENGUAJE ESPAÑOL E INGLES)</li>
+  <li>BASE DE DATOS</li>
   
   
   <h4>Tecnologia a Utilizar</h4>
