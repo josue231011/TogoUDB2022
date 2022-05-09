@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rapidfood</string>
+    <string name="bienvenido" translatable="false">Welcome to RapidFood SV !!</string>
+    <string name="todo" translatable="false">ALL</string>
+    <string name="icon">icon</string>
+    <string name="direccionh" translatable="false">Address</string>
+    <string name="direccionhouse" translatable="false">Add addresss</string>
+    <string name="direccionCompleta" translatable="false">Add the address on the field</string>
+    <string name="btnLogout" translatable="false">Logout</string>
+    <string name="hamburguerleyend" translatable="false">Choose from our wide variety of burgers, from the most
+    small to triple meat, we know you will make a great decision.</string>
+    <string name="pizzaleyenda" translatable="false">Enjoy a wide variety of flavors with family or friends,
+    choose the pizza that makes your mouth water the most, try all our cheeses with your ingredients
+    favorites</string>
+    <string name="postres" translatable="false">Explosion of flavors to accompany your favorite dish,
+        from the classic cookie cake, to fruit cups with a different touch, a cheesecake or the typical homemade flan</string>
+    <string name="agregar" translatable="false">Add to cart</string>
+    <string name="cancelar" translatable="false">Cancel</string>
+    <string name="regresar" translatable="false">Return</string>
+    <string name="historial_de_compras" translatable="false">Shopping history</string>
+</resources>

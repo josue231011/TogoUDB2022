@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Rapidfood</string>
+    <string name="bienvenido" translatable="false">Bienvenido a RapidFood SV !!</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="icon">icono</string>
+    <string name="direccionh" translatable="false">Direccion</string>
+    <string name="direccionhouse" translatable="false">Agregar direccion</string>
+    <string name="direccionCompleta" translatable="false">Ingresa la direccion completa en el siguiente campo</string>
+    <string name="title_activity_home">activity_home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="btnLogout" translatable="false">Cerrar sesion</string>
+    <string name="hamburguerleyend" translatable="false">Elige entre nuestra gran variedad de hamburguesas, desde la mas
+    pequeña hasta la triple carne, sabemosos que tomaras una gran desicion.</string>
+    <string name="pizzaleyenda" translatable="false">Disfruta de una gran variedad de sabores en familia o con amigos,
+    elige la pizza que mas te haga agua la boca, prueba todos nuestros quesos  con tus ingredientes
+    prefeirdos</string>
+    <string name="postres" translatable="false">Explosion de sabores para acompañar con tu platillo preferido,
+        desde la clásica tarta de galletas, a vasitos de frutas con un toque diferente, un pastel de queso o el típico flan casero</string>
+    <string name="agregar" translatable="false">Agregar al carrito</string>
+    <string name="textview">TextView</string>
+    <string name="cancelar" translatable="false">Cancelar</string>
+    <string name="regresar" translatable="false">Regresar</string>
+    <string name="historial_de_compras" translatable="false">Historial de compras</string>
+</resources>
