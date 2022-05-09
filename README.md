@@ -47,6 +47,7 @@ El servicio de nuestra aplicacion es basado en contratos de 3 meses por la canti
 
 <h5>ENLACES:</h5>
 <li> Figma: https://www.figma.com/file/P7TL3bXRtaCr2XjfqmYaRR/ToGoUDB?node-id=0%3A1 </li>
+<li>Mockups: https://drive.google.com/file/d/1ikefDcEiUe7XJ3tDMemLlf7al9MRtqcA/view?usp=sharing</li>
 <li> Diagrama de Casos de Usos(UML): https://app.moqups.com/AObaTMUVVgoUQ5rYVugOqE8io8evBmu4/view/page/acf519a16</li>
 <li> Github: https://github.com/josue231011/TogoUDB2022 </li>
 <li> Diagrama Entidad Relación(ER): https://lucid.app/lucidchart/e429f1e6-3b94-40c9-9da1-dea9ecf11f9b/edit?invitationId=inv_b272e390-9c63-4189-b1d1-d81a4884a84d</li>
